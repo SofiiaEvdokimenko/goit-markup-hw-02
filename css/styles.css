@@ -7,9 +7,33 @@
 .navigation{
     color: #2e2f42;
 }
+.navigation:hover{
+    color: #404BBF;
+}
 .adress{
     color: #434455;
 }
 .title{
     color: #ffffff;
+}
+h3{
+    color: #2E2F42;
+}
+h4{
+    color: #2E2F42;
+}
+.text{
+    color: #434455;
+}
+h2{
+    color: #2E2F42;
+}
+.desc{
+    color: #434455;
+}
+.icon{
+    color: #F4F4FD;
+}
+.endtext{
+    color: #F4F4FD;
 }
