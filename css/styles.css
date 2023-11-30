@@ -54,6 +54,7 @@ letter-spacing: 0.32px;
     background-color: #2E2F42;
 }
 .title{
+    text-align: center;
     color: #ffffff;
     font-weight: 700;
     font-size: 56px;
@@ -71,7 +72,7 @@ button{
     line-height: 1.5;
 letter-spacing: 0.64px;
 }
-.button:hover{
+.button:hover, .button:focus{
 background-color: #404BBF;
 }
 .section{
@@ -93,9 +94,13 @@ letter-spacing: 0.4px;
 letter-spacing: 0.32px;
 }
 .headline{
+    text-align: center;
     color: #2E2F42;
     font-weight: 700;
     font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 .footer{
     background-color: #2E2F42;
