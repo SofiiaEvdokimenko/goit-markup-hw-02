@@ -5,23 +5,31 @@
     text-decoration: none;
 }
 body{
-    font-family:Roboto;
+    font-family: 'Roboto', sans-serif;
     color: #2E2F42
 }
 .logo{
     color: #4D5AE5;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
+    line-height: 1.16;
+letter-spacing: 0.54px;
+text-transform: uppercase;
 }
 .logos{
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
+    line-height: 1.16;
+letter-spacing: 0.54px;
+text-transform: uppercase;
 }
 .navigation{
     font-weight: 500;
     font-size: 16px;
+    line-height:1.5;
+letter-spacing: 0.32px;
 }
 .navigation:hover, .navigation:focus{
     color: #404BBF;
@@ -30,6 +38,8 @@ body{
     color: #434455;
     font-weight: 400;
     font-size: 16px;
+    line-height: 1.5;
+letter-spacing: 0.32px;
 }
 .adress:hover, .adress:focus{
     color: #404BBF;
@@ -41,6 +51,8 @@ body{
     color: #ffffff;
     font-weight: 700;
     font-size: 56px;
+    line-height: 1.07;
+letter-spacing: 1.12px;
 }
 button{
     cursor: pointer;
@@ -50,6 +62,8 @@ button{
     background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
+    line-height: 1.5;
+letter-spacing: 0.64px;
 }
 .button:hover{
 background-color: #404BBF;
@@ -60,6 +74,8 @@ background-color: #404BBF;
 .name{
     font-weight: 500;
     font-size: 20px;
+    line-height: 1.20;
+letter-spacing: 0.4px;
 }
 .foto{
     background-color: #FFFFFF;
@@ -67,6 +83,8 @@ background-color: #404BBF;
 .text{
     color: #434455;
     font-size: 16px;
+    line-height: 1.5;
+letter-spacing: 0.32px;
 }
 .headline{
     font-weight: 700;
@@ -77,12 +95,17 @@ background-color: #404BBF;
 }
 .icon{
     color: #F4F4FD;
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
+    line-height: 1.16;
+letter-spacing: 0.54px;
+text-transform: uppercase;
 }
 .end-text{
     color: #F4F4FD;
     font-weight: 400;
     font-size: 16px;
+    line-height: 1.5;
+letter-spacing: 0.32px;
 }
