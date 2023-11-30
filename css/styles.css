@@ -6,7 +6,8 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
-    color: #2E2F42
+    color: #434455;
+    background-color: #FFFFFF;
 }
 .logo{
     color: #4D5AE5;
@@ -18,14 +19,17 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 .logos{
+    color: #2E2F42;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.16;
 letter-spacing: 0.54px;
 text-transform: uppercase;
+
 }
 .navigation{
+    color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
     line-height:1.5;
@@ -35,7 +39,6 @@ letter-spacing: 0.32px;
     color: #404BBF;
 }
 .contact{
-    color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -72,6 +75,7 @@ background-color: #404BBF;
     background-color: #F4F4FD;
 }
 .name{
+    color: #2E2F42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.20;
@@ -81,12 +85,12 @@ letter-spacing: 0.4px;
     background-color: #FFFFFF;
 }
 .text{
-    color: #434455;
     font-size: 16px;
     line-height: 1.5;
 letter-spacing: 0.32px;
 }
 .headline{
+    color: #2E2F42;
     font-weight: 700;
     font-size: 36px;
 }
