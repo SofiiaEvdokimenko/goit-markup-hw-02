@@ -1,52 +1,89 @@
-
 .list{
     list-style-type: none;
 }
+.logos, .navigation, .adress, .icon{
+    text-decoration: none;
+}
+body{
+    font-family:Roboto;
+    color: #2E2F42
+}
 .logo{
     color: #4D5AE5;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
 }
 .logos{
-    color: #2e2f42;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
 }
 .navigation{
-    color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
 }
-.navigation:hover{
+.navigation:hover, .navigation:focus{
     color: #404BBF;
 }
 .adress{
     color: #434455;
+    font-weight: 400;
+    font-size: 16px;
 }
-.title{
-    color: #ffffff;
+.adress:hover, .adress:focus{
+    color: #404BBF;
 }
 .heading{
     background-color: #2E2F42;
 }
+.title{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 56px;
+}
+button{
+    cursor: pointer;
+}
+.button{
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+}
+.button:hover{
+background-color: #404BBF;
+}
 .section{
     background-color: #F4F4FD;
 }
-h3{
-    color: #2E2F42;
+.name{
+    font-weight: 500;
+    font-size: 20px;
 }
-h4{
-    color: #2E2F42;
+.foto{
+    background-color: #FFFFFF;
 }
 .text{
     color: #434455;
+    font-weight: 400;
+    font-size: 16px;
 }
-h2{
-    color: #2E2F42;
-}
-.desc{
-    color: #434455;
+.headline{
+    font-weight: 700;
+    font-size: 36px;
 }
 .footer{
     background-color: #2E2F42;
 }
 .icon{
     color: #F4F4FD;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
 }
 .endtext{
     color: #F4F4FD;
+    font-weight: 400;
+    font-size: 16px;
 }
