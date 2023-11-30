@@ -1,8 +1,11 @@
 .list{
     list-style-type: none;
 }
-.logos, .navigation, .adress, .icon{
+.logo, .navigation, .contact, .icon{
     text-decoration: none;
+}
+.contacts{
+    font-style: normal
 }
 body{
     font-family: 'Roboto', sans-serif;
@@ -14,7 +17,7 @@ body{
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
@@ -23,10 +26,9 @@ text-transform: uppercase;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
-
 }
 .navigation{
     color: #2E2F42;
@@ -39,12 +41,13 @@ letter-spacing: 0.32px;
     color: #404BBF;
 }
 .contact{
+    color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
 letter-spacing: 0.32px;
 }
-.adress:hover, .adress:focus{
+.contact:hover, .contact:focus{
     color: #404BBF;
 }
 .heading{
@@ -102,7 +105,7 @@ letter-spacing: 0.32px;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
