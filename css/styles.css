@@ -26,7 +26,7 @@ body{
 .navigation:hover, .navigation:focus{
     color: #404BBF;
 }
-.adress{
+.contact{
     color: #434455;
     font-weight: 400;
     font-size: 16px;
@@ -66,7 +66,6 @@ background-color: #404BBF;
 }
 .text{
     color: #434455;
-    font-weight: 400;
     font-size: 16px;
 }
 .headline{
@@ -82,7 +81,7 @@ background-color: #404BBF;
     font-weight: 700;
     font-size: 18px;
 }
-.endtext{
+.end-text{
     color: #F4F4FD;
     font-weight: 400;
     font-size: 16px;
